@@ -1,0 +1,52 @@
+div {
+    margin : 0 auto;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    font-size: 14px;
+}
+
+form {
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+
+input {
+    width: 200px;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 0 10px #000;
+    border: 1px solid #f2f2f2;
+    background-color: #f2f2f2;
+    padding: 4px;
+}
+
+::placeholder {
+    text-transform: uppercase;
+    font-size: 8px;
+    font-weight: bold;
+}
+
+textarea {
+    width: 200px;
+    height: 100px;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0 0 10px #000;
+    border: 1px solid #f2f2f2;
+    background-color: #f2f2f2;
+    padding: 4px;
+}
+
+button {
+    width: 120px;
+    height: 40px;
+    background-color: #000000;
+    color: #ffffff;
+}
